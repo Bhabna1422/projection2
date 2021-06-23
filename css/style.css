@@ -1,0 +1,124 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.big-wrapper{
+    background-image:linear-gradient(rgba(0,0,0,0.4)0%,rgba(0,0,0,0.5)100%),url(../img/banner.jpg);
+    color: #fff;
+}
+
+/* navigation */
+#my-navigation{
+    background: none;
+    border: none;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    
+   
+}
+#my-navigation a{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+  
+}
+#my-navigation a .size{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+/* three-section starts here */
+.custom-row{
+    padding-top: 150px;
+   padding-bottom: 100px;
+   border-top: 1px solid #f2f2f2;
+}
+.three-section{
+    padding: 50px 0px;
+}
+.three-section span{
+    color: #6cc091;
+    font-size: 30px;
+}
+.three-section p{
+    color: #dbdbdb;
+}
+.my-button{
+    width: 150px;
+    height: 40px;
+    color: #6cc091;
+    background: none;
+    border: 2px solid #6cc091;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+
+/* two-section starts */
+.two-section{
+   padding: 80px 0px;
+
+}
+.two-section img{
+   border-radius: 100%;
+}
+.two-section h3{
+    line-height: 35px;
+    color: #101214;
+    margin-bottom: 25px;
+}
+.two-section p{
+    color: grey;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+/* last-section */
+.wrapper{
+    background-color: #6cc091;
+    padding: 90px 0px;
+    color: #fff;
+}
+.heading h3{
+    color: #fff;
+    margin-bottom: 70px;
+}
+
+#name{
+    background: none;
+    border-color: #fff;
+   
+}
+#email{
+    background: none;
+    border-color: #fff;
+
+}
+#massage{
+    background: none;
+    border-color: #fff;
+}
+
+.white-button{
+    width: 150px;
+    height: 40px;
+    margin-left: 45%;
+    color: #fff;
+    background:none;
+    border: 2px solid #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+
+}
+.wrapper p{
+    text-align: center;
+    font-size: 13px;
+
+}
+
